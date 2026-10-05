@@ -44,4 +44,3 @@ Data cleaning and ETL operations were executed within **Power Query**:
 - **Power BI Desktop**
 - **Power Query (ETL & Data Prep)**
 - **Data Modeling (Relational Design)**
-- **DAX & Interactive Visualizations**
