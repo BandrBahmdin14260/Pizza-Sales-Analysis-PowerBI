@@ -6,7 +6,7 @@ A simple Power BI project created as a practical application of Power BI basics 
 ---
 
 ## Dashboard
-![Dashboard](SharedScreenshot.jpg)
+![Dashboard](PagePowerBI.jpg)
 
 ---
 
