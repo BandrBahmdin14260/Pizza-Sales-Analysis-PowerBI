@@ -24,7 +24,7 @@ The dataset consists of 4 related tables:
 ## Data Preparation
 Data was checked and formatted using Power Query to ensure valid types and clean relationships.
 
-![Power Query](SharedScreenshotData.jpg)
+![Power Query](RealationData.jpg)
 
 ---
 
